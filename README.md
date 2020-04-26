@@ -6,12 +6,13 @@
 Recently, we did an internal review of all staff, their department, title, salary and retirement eligibility. Based on this review, it is noted that nearly 10% of our staff is eligible for retirement! Due to the size and percentage of retirement candidates, this is a “silver tsunami” of sorts. This could have a significant impact on our business. We strive to deliver the best services to our internal and external customers. With 33,118 people eligible for retirement, we could lose quality of service, momentum, as well as company intellect and understanding. We welcome new employees coming on board but take pride in our tenured staff and the skillset they bring to the fold. 
 
 |Title	              |Total |
+|---------------------|------|
 |Senior Engineer	    |8,434 |
-|Senior Staff	       |7,889 |
-|Engineer	           |7,387 |
+|Senior Staff	        |7,889 |
+|Engineer	            |7,387 |
 |Staff	              |7,005 |
-|Technical Leader    |1,609 |
-|Assistant Engineer	 |792   |
+|Technical Leader     |1,609 |
+|Assistant Engineer	  |792   |
 |Manager	            |2     |
 |Eligible ret   	    |33,118|
 
