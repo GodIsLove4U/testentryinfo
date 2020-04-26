@@ -1,19 +1,19 @@
-# Module 7 Challenge - April 2020
-## Doris B. Cohen
+#                                                   Module 7 Challenge - April 2020
+##                                                           Doris B. Cohen
 
 
 ### Technical Analysis
 Recently, we did an internal review of all staff, their department, title, salary and retirement eligibility. Based on this review, it is noted that nearly 10% of our staff is eligible for retirement! Due to the size and percentage of retirement candidates, this is a “silver tsunami” of sorts. This could have a significant impact on our business. We strive to deliver the best services to our internal and external customers. With 33,118 people eligible for retirement, we could lose quality of service, momentum, as well as company intellect and understanding. We welcome new employees coming on board but take pride in our tenured staff and the skillset they bring to the fold. 
 
 **Title	            Total**
-*Senior Engineer	  8,434
-*Senior Staff	      7,889
-*Engineer	          7,387
-*Staff	            7,005
-*Technical Leader	  1,609
-*Assistant Engineer	792
-*Manager	          2
-*Eligible retirees	33,118
+ *Senior Engineer	  8,434
+ *Senior Staff	    7,889
+ *Engineer	        7,387
+ *Staff	            7,005
+ *Technical Leader  1,609
+ *Assistant Engineer	792
+ *Manager	              2
+ **Eligible ret   	33,118**
 
 I utilized our Human Resources and department mental information which included; department, salary, title, employee number, employee birthday and employee start date to determine ways to get ahead of this “silver tsunami”. In doing so, I filtered thru our data to focus on how many people are eligible for retirement and who could serve as mentors. I used various SQL functions; GROUP BY, DISTINCT ON, PARTITION, ORDER BY, COUNT, INTO, SELECT, INNER JOIN, OUTER JOIN, AS, ON, DESC, FROM and WHERE. I faced some challenges in this project, as I realized that the way we capture the data per employee does lend itself to conflated numbers. So, I methodically went thru the data to provide the best summary of our employee information so we can make decisions on next steps. I used PgAdmin to analyze, cull and synchronize the data and remove duplicates. The SQL statements are listed in the file called ModuleSevenChallenge.sql. This files provides a step-by-step summary of the datasets and how I completed each part of the analysis.  
 
