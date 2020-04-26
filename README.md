@@ -53,17 +53,17 @@ Recommendations:
 *	Postgres/PgAdmin 	ModuleSevenChallenge.sql, Challenge7.tar
 *	NotNull/ValueLength	schemas.sql
 *	Table 1: Number of Retiring Employees by Title
-  *PNG		recenttitle.png
+	* PNG		recenttitle.png
 	* CSV		recenttitle.csv
 * Table 2: Mentorship Eligibility
   * PNG		tipartsal.png
   * CSV		tipartsal.csv
-*	Tech Report		Challenge7TechnicalAnalysis.docx
-*	Schemas 
- 	*Conceptual ERD	ConceptualERD.png
-	*Logical ERD		LogicalERD.png
-	*Physical ERD		PhysicalERD.png
-*	Module Exercises
+*Tech Report		Challenge7TechnicalAnalysis.docx
+*Schemas 
+ *Conceptual ERD	ConceptualERD.png
+ *Logical ERD		LogicalERD.png
+ *Physical ERD		PhysicalERD.png
+*Module Exercises
   *Queries		queries.sql
   *Test tables		testtables.sql
   *Exercises		finalmossevenexercises.sql
@@ -72,7 +72,7 @@ Recommendations:
   *employees.csv 
   *dept_manager.csv
   *dept_emp.csv
- 	*salaries.csv
+  *salaries.csv
   *titles.csv
 
 If you have any questions or require additional files and information, please do not hesitate to contact. I’m available by phone, email or Slack. 
