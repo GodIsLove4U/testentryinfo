@@ -27,19 +27,15 @@ I utilized our Human Resources and department mental information which included;
 
 In this analysis, it became clear that time is of the essence. We have a significant number of employees who are eligible for retirement. This is great for them but poses some challenges to our company. We will lose significant intellectual resources, as many of these candidates eligible for retirement are engineers and senior staff. To that end, we have a unique opportunity to work with a group of these individuals who can mentoring the next generation of Pewlett Hackard employees. This is great news! The only downside is that this group only makes up a small fraction of those eligible for retirement. We have 1,549 employees that can participate in our mentoring program. This only 5% of the number of employees eligible for retirement. Thankfully, this is a cross-section of the employees who are eligible for retirement. The only group that is not represented in this list are Managers. However, there are only 2 managers on the retirement list. Although this is an important role, the number is small. 
 
-Mentoring Program by Title	 Total 
-Assistant Engineer	29
-Engineer	190
-Senior Engineer	529
-Senior Staff	569
-Staff	155
-Technique Leader	77
-Grand Total	1,549
-
-
-
-
-
+|Mentoring Program by Title|Total| 
+|--------------------------|-----|
+|Assistant Engineer	       |29   |
+|Engineer	                 |190  |
+|Senior Engineer	         |529  |
+|Senior Staff	             |569  |
+|Staff	                   |155  |
+|Technique Leader	         |77   |
+|Grand Total	             |1,549|
 
 Pewlett Hackard is committed to excellence and professionalism in the workplace. We are the industry leader in providing the best products and services in our market. We strive to be in sync with the mission, vision and values that are present in all we say and do. For this reason, I have provided a detail list of the analysis, along with recommendations for future growth and planning.
 In order to have a successful transition and “changing of the guards”, I recommend the following, as it will benefit our current, new and retiring staff. This will put Pewlett Hackard in a good position to be prepared for they months and years ahead.
