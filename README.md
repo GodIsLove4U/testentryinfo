@@ -69,11 +69,11 @@ Recommendations:
   * Exercises		finalmossevenexercises.sql
  * Downloads
   * departments.csv
-  * employees.csv 
-  * dept_manager.csv
-  * dept_emp.csv
-  * salaries.csv
-  * titles.csv
+   * employees.csv 
+   * dept_manager.csv
+   * dept_emp.csv
+   * salaries.csv
+   * titles.csv
 
 If you have any questions or require additional files and information, please do not hesitate to contact. I’m available by phone, email or Slack. 
 
