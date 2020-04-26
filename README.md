@@ -53,7 +53,7 @@ Recommendations:
 *	Postgres/PgAdmin 	ModuleSevenChallenge.sql, Challenge7.tar
 *	NotNull/ValueLength	schemas.sql
 *	Table 1: Number of Retiring Employees by Title
-  *	PNG		recenttitle.png
+  *PNG		recenttitle.png
 	* CSV		recenttitle.csv
 * Table 2: Mentorship Eligibility
   * PNG		tipartsal.png
