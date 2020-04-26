@@ -48,38 +48,34 @@ Recommendations:
 6.	Begin a hiring campaign
 7.	Review salaries to determine equity in roles, experience and education as the hiring process begins. 
 
-Files and attachments:
-•	Postgres/PgAdmin 	ModuleSevenChallenge.sql, Challenge7.tar
+**Files and attachments:
 
-•	NotNull/ValueLength	schemas.sql
-
-•	Table 1: Number of Retiring Employees by Title
-o	PNG		recenttitle.png
-o	CSV		recenttitle.csv
-•	Table 2: Mentorship Eligibility
-o	PNG		tipartsal.png
-o	CSV		tipartsal.csv
-
-•	Tech Report		Challenge7TechnicalAnalysis.docx
-
-•	Schemas 
-o	Conceptual ERD	ConceptualERD.png
-o	Logical ERD		LogicalERD.png
-o	Physical ERD		PhysicalERD.png
-
-•	Module Exercises
-o	Queries		queries.sql
-o	Test tables		testtables.sql
-o	Exercises		finalmossevenexercises.sql
-o	Downloads
-	departments.csv
-	employees.csv 
-	dept_manager.csv
-	dept_emp.csv
-	salaries.csv
-	titles.csv
+*	Postgres/PgAdmin 	ModuleSevenChallenge.sql, Challenge7.tar
+*	NotNull/ValueLength	schemas.sql
+*	Table 1: Number of Retiring Employees by Title
+  *	PNG		recenttitle.png
+	* CSV		recenttitle.csv
+* Table 2: Mentorship Eligibility
+  * PNG		tipartsal.png
+  * CSV		tipartsal.csv
+*	Tech Report		Challenge7TechnicalAnalysis.docx
+*	Schemas 
+ 	*Conceptual ERD	ConceptualERD.png
+	*Logical ERD		LogicalERD.png
+	*Physical ERD		PhysicalERD.png
+*	Module Exercises
+  *Queries		queries.sql
+  *Test tables		testtables.sql
+  *Exercises		finalmossevenexercises.sql
+ * Downloads
+  *departments.csv
+  *employees.csv 
+  *dept_manager.csv
+  *dept_emp.csv
+ 	*salaries.csv
+  *titles.csv
 
 If you have any questions or require additional files and information, please do not hesitate to contact. I’m available by phone, email or Slack. 
 
-Authored by Doris B. Cohen
-PostgreSQL Practitioner
+##Authored by Doris B. Cohen
+####PostgreSQL Practitioner
