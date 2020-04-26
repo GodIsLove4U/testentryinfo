@@ -50,30 +50,30 @@ Recommendations:
 
 **Files and attachments:
 
-*	Postgres/PgAdmin 	ModuleSevenChallenge.sql, Challenge7.tar
-*	NotNull/ValueLength	schemas.sql
+*	Postgres/PgAdmin 	ModuleSevenChallenge.sql, Challenge7.tar https://github.com/GodIsLove4U/Pewlett-Hackard-Analysis/blob/master/Queries/ModuleSevenChallenge.sql, Challenge7.tar https://github.com/GodIsLove4U/Pewlett-Hackard-Analysis/blob/master/Data/Challeng7.tar
+*	NotNull/ValueLength	schemas.sqlhttps://github.com/GodIsLove4U/Pewlett-Hackard-Analysis/blob/master/Queries/schema.sql
 *	Table 1: Number of Retiring Employees by Title
-	* PNG		recenttitle.png
-	* CSV		recenttitle.csv
+	* PNG		recenttitle.png https://github.com/GodIsLove4U/Pewlett-Hackard-Analysis/blob/master/Photos/recenttitle.png
+	* CSV		recenttitle.csv https://github.com/GodIsLove4U/Pewlett-Hackard-Analysis/blob/master/Data/recenttitle.csv
 * Table 2: Mentorship Eligibility
-  * PNG		tipartsal.png
-  * CSV		tipartsal.csv
-* Tech Report		Challenge7TechnicalAnalysis.docx
+  * PNG		tipartsal.png https://github.com/GodIsLove4U/Pewlett-Hackard-Analysis/blob/master/Photos/tipartsal.png
+  * CSV		tipartsal.csv https://github.com/GodIsLove4U/Pewlett-Hackard-Analysis/blob/master/Data/tipartsal.csv
+* Tech Report		Challenge7TechnicalAnalysis.docx https://github.com/GodIsLove4U/Pewlett-Hackard-Analysis/blob/master/Data/Challenge7TechnicalAnalysis.docx
 * Schemas 
- * Conceptual ERD	ConceptualERD.png
- * Logical ERD		LogicalERD.png
- * Physical ERD		PhysicalERD.png
+ * Conceptual ERD	ConceptualERD.png https://github.com/GodIsLove4U/Pewlett-Hackard-Analysis/blob/master/Photos/ConceptualERD.png
+ * Logical ERD		LogicalERD.png https://github.com/GodIsLove4U/Pewlett-Hackard-Analysis/blob/master/Photos/LogicalERD.png
+ * Physical ERD		PhysicalERD.png https://github.com/GodIsLove4U/Pewlett-Hackard-Analysis/blob/master/Photos/PhysicalERD.png
 * Module Exercises
-  * Queries		queries.sql
-  * Test tables		testtables.sql
-  * Exercises		finalmossevenexercises.sql
+  * Queries		queries.sql https://github.com/GodIsLove4U/Pewlett-Hackard-Analysis/blob/master/Queries/queries.sql
+  * Test tables		testtables.sql https://github.com/GodIsLove4U/Pewlett-Hackard-Analysis/blob/master/Queries/testtables.sql
+  * Exercises		finalmossevenexercises.sql https://github.com/GodIsLove4U/Pewlett-Hackard-Analysis/blob/master/Queries/finalmodsevenexercises.sql
  * Downloads
-   	* departments.csv
-	 * employees.csv 
-   	* dept_manager.csv
-   	* dept_emp.csv
-   	* salaries.csv
-   	* titles.csv
+   	* departments.csv https://github.com/GodIsLove4U/Pewlett-Hackard-Analysis/blob/master/Data/departments.csv
+	 * employees.csv https://github.com/GodIsLove4U/Pewlett-Hackard-Analysis/blob/master/Data/employees.csv
+   	* dept_manager.csv https://github.com/GodIsLove4U/Pewlett-Hackard-Analysis/blob/master/Data/dept_manager.csv
+   	* dept_emp.csv https://github.com/GodIsLove4U/Pewlett-Hackard-Analysis/blob/master/Data/dept_emp.csv
+   	* salaries.csv https://github.com/GodIsLove4U/Pewlett-Hackard-Analysis/blob/master/Data/salaries.csv
+   	* titles.csv https://github.com/GodIsLove4U/Pewlett-Hackard-Analysis/blob/master/Data/titles.csv
 
 If you have any questions or require additional files and information, please do not hesitate to contact. I’m available by phone, email or Slack. 
 
